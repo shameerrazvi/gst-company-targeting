@@ -1,0 +1,21 @@
+sector,operating,classified
+Numbered company,0,1
+"Holding, investment or trustee",0,1
+Construction and trades,1,1
+Health and care,1,1
+Food and hospitality,1,1
+Transport and logistics,1,1
+Property and real estate,1,1
+IT and digital,1,1
+Professional services,1,1
+Finance and insurance,1,1
+Retail and wholesale,1,1
+Automotive,1,1
+"Beauty, fitness and personal",1,1
+Education and childcare,1,1
+"Cleaning, security and facilities",1,1
+Manufacturing and engineering,1,1
+Agriculture,1,1
+Mining and energy,1,1
+"Media, creative and events",1,1
+Unclassified,1,0

@@ -1,0 +1,89 @@
+state,sa4,greater_capital_city
+ACT,Australian Capital Territory,1
+NSW,Capital Region,0
+NSW,Central Coast,1
+NSW,Central West,0
+NSW,Coffs Harbour - Grafton,0
+NSW,Far West and Orana,0
+NSW,Hunter Valley exc Newcastle,0
+NSW,Illawarra,0
+NSW,Mid North Coast,0
+NSW,Murray,0
+NSW,New England and North West,0
+NSW,Newcastle and Lake Macquarie,0
+NSW,Other Territories,0
+NSW,Richmond - Tweed,0
+NSW,Riverina,0
+NSW,Southern Highlands and Shoalhaven,0
+NSW,Sydney - Baulkham Hills and Hawkesbury,1
+NSW,Sydney - Blacktown,1
+NSW,Sydney - City and Inner South,1
+NSW,Sydney - Eastern Suburbs,1
+NSW,Sydney - Inner South West,1
+NSW,Sydney - Inner West,1
+NSW,Sydney - North Sydney and Hornsby,1
+NSW,Sydney - Northern Beaches,1
+NSW,Sydney - Outer South West,1
+NSW,Sydney - Outer West and Blue Mountains,1
+NSW,Sydney - Parramatta,1
+NSW,Sydney - Ryde,1
+NSW,Sydney - South West,1
+NSW,Sydney - Sutherland,1
+NT,Darwin,1
+NT,Northern Territory - Outback,0
+QLD,Brisbane - East,1
+QLD,Brisbane - North,1
+QLD,Brisbane - South,1
+QLD,Brisbane - West,1
+QLD,Brisbane Inner City,0
+QLD,Cairns,0
+QLD,Darling Downs - Maranoa,0
+QLD,Fitzroy,0
+QLD,Gold Coast,0
+QLD,Ipswich,1
+QLD,Logan - Beaudesert,1
+QLD,Mackay,0
+QLD,Moreton Bay - North,1
+QLD,Moreton Bay - South,1
+QLD,Queensland - Outback,0
+QLD,Sunshine Coast,0
+QLD,Toowoomba,0
+QLD,Townsville,0
+QLD,Wide Bay,0
+SA,Adelaide - Central and Hills,1
+SA,Adelaide - North,1
+SA,Adelaide - South,1
+SA,Adelaide - West,1
+SA,Barossa - Yorke - Mid North,0
+SA,South Australia - Outback,0
+SA,South Australia - South East,0
+TAS,Hobart,1
+TAS,Launceston and North East,0
+TAS,South East,0
+TAS,West and North West,0
+VIC,Ballarat,0
+VIC,Bendigo,0
+VIC,Geelong,0
+VIC,Hume,0
+VIC,Latrobe - Gippsland,0
+VIC,Melbourne - Inner,1
+VIC,Melbourne - Inner East,1
+VIC,Melbourne - Inner South,1
+VIC,Melbourne - North East,1
+VIC,Melbourne - North West,1
+VIC,Melbourne - Outer East,1
+VIC,Melbourne - South East,1
+VIC,Melbourne - West,1
+VIC,Mornington Peninsula,1
+VIC,North West,0
+VIC,Shepparton,0
+VIC,Warrnambool and South West,0
+WA,Bunbury,0
+WA,Mandurah,0
+WA,Perth - Inner,1
+WA,Perth - North East,1
+WA,Perth - North West,1
+WA,Perth - South East,1
+WA,Perth - South West,1
+WA,Western Australia - Outback,0
+WA,Western Australia - Wheat Belt,0

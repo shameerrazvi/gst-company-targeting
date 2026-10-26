@@ -1,0 +1,55 @@
+rank,sa4,sector,new_leads,prior_leads,growth_pct,quadrant
+1,Melbourne - West,Construction and trades,851,729,16.74,Priority: large and growing
+2,Melbourne - West,Transport and logistics,684,491,39.31,Priority: large and growing
+3,Melbourne - South East,Construction and trades,626,599,4.51,Priority: large and growing
+4,Melbourne - North West,Construction and trades,514,429,19.81,Priority: large and growing
+5,Melbourne - Inner,Professional services,377,343,9.91,Priority: large and growing
+6,Melbourne - North East,Construction and trades,350,309,13.27,Priority: large and growing
+7,Melbourne - South East,Transport and logistics,287,244,17.62,Priority: large and growing
+8,Melbourne - South East,Professional services,245,224,9.38,Priority: large and growing
+9,Melbourne - West,IT and digital,239,192,24.48,Priority: large and growing
+10,Melbourne - North West,Transport and logistics,216,157,37.58,Priority: large and growing
+11,Melbourne - Inner,Construction and trades,197,176,11.93,Priority: large and growing
+12,Melbourne - South East,Retail and wholesale,181,169,7.1,Priority: large and growing
+13,Melbourne - Inner South,Professional services,177,149,18.79,Priority: large and growing
+14,Melbourne - Inner,Property and real estate,175,155,12.9,Priority: large and growing
+15,Melbourne - West,Property and real estate,173,154,12.34,Priority: large and growing
+16,Melbourne - West,Health and care,342,345,-0.87,"Core: large, steady"
+17,Melbourne - West,Professional services,315,316,-0.32,"Core: large, steady"
+18,Mornington Peninsula,Construction and trades,261,259,0.77,"Core: large, steady"
+19,Melbourne - South East,Health and care,255,255,0.0,"Core: large, steady"
+20,Melbourne - West,Food and hospitality,247,242,2.07,"Core: large, steady"
+21,Melbourne - Outer East,Construction and trades,246,259,-5.02,"Core: large, steady"
+22,Melbourne - Inner,IT and digital,230,223,3.14,"Core: large, steady"
+23,Melbourne - West,Retail and wholesale,219,214,2.34,"Core: large, steady"
+24,Melbourne - South East,Food and hospitality,210,215,-2.33,"Core: large, steady"
+25,Melbourne - North West,Health and care,188,201,-6.47,"Core: large, steady"
+26,Melbourne - Inner,Health and care,183,182,0.55,"Core: large, steady"
+27,Melbourne - Inner,"Media, creative and events",172,178,-3.37,"Core: large, steady"
+28,Melbourne - West,"Cleaning, security and facilities",161,126,27.78,"Emerging: small, growing"
+29,Melbourne - South East,IT and digital,160,140,14.29,"Emerging: small, growing"
+30,Melbourne - South East,Property and real estate,157,135,16.3,"Emerging: small, growing"
+31,Melbourne - Inner South,Construction and trades,155,138,12.32,"Emerging: small, growing"
+32,Melbourne - South East,Automotive,145,110,31.82,"Emerging: small, growing"
+33,Geelong,Construction and trades,133,125,6.4,"Emerging: small, growing"
+34,Melbourne - North East,Transport and logistics,130,86,51.16,"Emerging: small, growing"
+35,Melbourne - North East,Professional services,126,111,13.51,"Emerging: small, growing"
+36,Melbourne - Inner,Finance and insurance,113,102,10.78,"Emerging: small, growing"
+37,Melbourne - Inner East,Health and care,105,100,5.0,"Emerging: small, growing"
+38,Melbourne - Inner South,IT and digital,105,73,43.84,"Emerging: small, growing"
+39,Melbourne - North East,Food and hospitality,102,82,24.39,"Emerging: small, growing"
+40,Melbourne - Inner,Food and hospitality,164,220,-25.45,"Monitor: small, steady"
+41,Melbourne - North East,Health and care,156,162,-3.7,"Monitor: small, steady"
+42,Melbourne - North West,Professional services,130,125,4.0,"Monitor: small, steady"
+43,Melbourne - West,Automotive,121,117,3.42,"Monitor: small, steady"
+44,Melbourne - Inner,Retail and wholesale,119,119,0.0,"Monitor: small, steady"
+45,Melbourne - South East,"Cleaning, security and facilities",119,115,3.48,"Monitor: small, steady"
+46,Melbourne - Inner East,Construction and trades,118,126,-6.35,"Monitor: small, steady"
+47,Melbourne - Inner East,Professional services,115,137,-16.06,"Monitor: small, steady"
+48,Melbourne - West,Finance and insurance,114,110,3.64,"Monitor: small, steady"
+49,Melbourne - North West,Property and real estate,112,112,0.0,"Monitor: small, steady"
+50,Melbourne - Inner South,Health and care,110,117,-5.98,"Monitor: small, steady"
+51,Melbourne - West,"Beauty, fitness and personal",110,109,0.92,"Monitor: small, steady"
+52,Melbourne - North West,Food and hospitality,108,126,-14.29,"Monitor: small, steady"
+53,Melbourne - Outer East,Professional services,108,111,-2.7,"Monitor: small, steady"
+54,Melbourne - South East,Manufacturing and engineering,104,104,0.0,"Monitor: small, steady"

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw ABN Bulk Extract and intermediate files (see data/raw/README.md)
+data/raw/*.zip
+data/raw/*.csv.gz
+data/raw/parts/
+data/reference/*.csv

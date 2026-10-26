@@ -1,0 +1,29 @@
+{
+  "headline": {
+    "snapshot": "2026-10-21",
+    "records_in_extract": 4088709,
+    "active_companies": 2169536,
+    "gst_registered_pct": 66.4,
+    "holding_trustee_numbered_pct": 9.5,
+    "unclassified_pct": 47.1,
+    "new_last_12m": 226712,
+    "new_prior_12m": 198621,
+    "growth_pct": 14.1,
+    "leads_last_12m": 143523,
+    "vic_new_last_12m": 58859,
+    "vic_leads_last_12m": 37787
+  },
+  "gst_timing": {
+    "companies": 483781.0,
+    "gst_registered": 348855.0,
+    "gst_registered_pct": 72.1,
+    "same_day_pct": 75.9,
+    "within_30_days_pct": 84.9,
+    "within_90_days_pct": 89.7,
+    "backdated_before_abn_pct": 0.4
+  },
+  "segment_grid": {
+    "size_cut": 168.0,
+    "growth_cut": 4.3
+  }
+}
